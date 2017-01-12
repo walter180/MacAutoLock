@@ -1,0 +1,13 @@
+{
+  "name": "screen-manager",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "author": "William Rory Kronmiller",
+  "license": "MIT",
+  "dependencies": {
+    "noble": "^1.7.0"
+  },
+  "scripts":{
+      "start": "node lib/index.js"
+  }
+}
